@@ -1,0 +1,55 @@
+
+.preço {
+  color: rgb(0, 118, 0);
+  font-weight: bolder;
+}
+
+.nike {
+  font-weight:bolder;
+  font-size: 25px;
+}
+
+.amazon {
+  color: rgb(0, 113, 133);
+}
+
+.amazon:hover {
+  color: orangered;
+}
+
+.add {
+  background-color: rgb(255, 216, 20);  
+  border: none;
+  border-radius: 11px;
+  width: 100px;
+  margin-right: 10px;
+  height: 22px;
+  cursor: pointer;
+}
+
+.add:hover {
+  background-color: rgb(255, 213, 0);  
+
+}
+
+.add:active {
+  opacity: 0.5;
+}
+
+.buy{
+  background-color: rgb(255, 164, 28);
+  border: none;
+  border-radius: 11px;
+  width: 100px;
+  height: 22px;
+  cursor: pointer;
+}
+
+.buy:hover {
+  background-color: rgb(255, 153, 0);
+}
+
+.buy:active {
+  opacity: 0.5;
+}
+
